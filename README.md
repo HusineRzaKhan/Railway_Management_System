@@ -10,4 +10,4 @@ It has following features;<br>
      7. Java GUI for FrontEnd<br>
 <br>
 Developed by;<br>
- Hussain Raza Khan (https://github.com/HusineRzaKhan)
+ Hussain Raza Khan (https://github.com/HusineRzaKhan).
