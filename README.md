@@ -1,4 +1,4 @@
-This simple project is created in Java language with Object Oriented Programming (OOP) technique;
+This simple project is created in Java language with Object Oriented Programming (OOP) technique;<br>
 <br>
 It has following features;<br>
      1. Login/Signup as Customer<br>
@@ -11,3 +11,12 @@ It has following features;<br>
 <br>
 Developed by;<br>
  Hussain Raza Khan (https://github.com/HusineRzaKhan)
+
+#      _    _                               _             _____                            _  __  _                     
+#     | |  | |                             (_)           |  __ \                          | |/ / | |                    
+#     | |__| |  _   _   ___   ___    __ _   _   _ __     | |__) |   __ _   ____   __ _    | ' /  | |__     __ _   _ __  
+#     |  __  | | | | | / __| / __|  / _` | | | | '_ \    |  _  /   / _` | |_  /  / _` |   |  <   | '_ \   / _` | | '_ \ 
+#     | |  | | | |_| | \__ \ \__ \ | (_| | | | | | | |   | | \ \  | (_| |  / /  | (_| |   | . \  | | | | | (_| | | | | |
+#     |_|  |_|  \__,_| |___/ |___/  \__,_| |_| |_| |_|   |_|  \_\  \__,_| /___|  \__,_|   |_|\_\ |_| |_|  \__,_| |_| |_|
+#                                                                                                                       
+#                                                                                                                       
